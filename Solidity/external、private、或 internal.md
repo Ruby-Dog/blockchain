@@ -1,0 +1,1 @@
+-> https://medium.com/taipei-ethereum-meetup/solidity-weekly-12-106fba877053
